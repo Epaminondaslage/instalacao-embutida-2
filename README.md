@@ -26,7 +26,7 @@ Ao final desta atividade, o aluno será capaz de:
 
 Esta atividade simula uma instalação real de uma circulação onde a mesma lâmpada pode ser acionada por cinco pontos diferentes.
 
-## Interruptor Paralelo
+### Interruptor Paralelo
 O interruptor **paralelo** (também chamado de three-way) permite acionar uma lâmpada a partir de **dois pontos diferentes**.
 
 **Características:**
@@ -44,7 +44,7 @@ O interruptor **paralelo** (também chamado de three-way) permite acionar uma l�
 
 ---
 
-## Interruptor Intermediário
+### Interruptor Intermediário
 O interruptor **intermediário** (four-way) é usado quando o circuito precisa de **3 ou mais pontos de comando**.
 
 **Características:**
