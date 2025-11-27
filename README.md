@@ -24,11 +24,9 @@ Ao final desta atividade, o aluno será capaz de:
 
 ##  Introdução
 
-**Aplicação Prática no Box Didático**
-
 Esta atividade simula uma instalação real de uma circulação onde a mesma lâmpada pode ser acionada por cinco pontos diferentes.
 
-### Interruptor Paralelo
+## Interruptor Paralelo
 O interruptor **paralelo** (também chamado de three-way) permite acionar uma lâmpada a partir de **dois pontos diferentes**.
 
 **Características:**
@@ -38,7 +36,6 @@ O interruptor **paralelo** (também chamado de three-way) permite acionar uma l�
 - **Retornos paralelos** →  interligando os dois interruptores.
 - Sempre utilizado em **par** (um no início e outro no fim do circuito).
 
-
 **Aplicações:**
 
 - Escadas  
@@ -47,7 +44,7 @@ O interruptor **paralelo** (também chamado de three-way) permite acionar uma l�
 
 ---
 
-### Interruptor Intermediário
+## Interruptor Intermediário
 O interruptor **intermediário** (four-way) é usado quando o circuito precisa de **3 ou mais pontos de comando**.
 
 **Características:**
@@ -130,7 +127,7 @@ O aluno deve produzir o desenho simbólico indicando:
 
 ##  Diagrama Unifilar – Circuito de 5 Pontos
 
-### Instalação nas paredes  (QDLF / Box 4)
+**Instalação nas paredes  (QDLF / Box 4)**
 
 - 01 DTMG monopolar  
 - 01 Interruptor paralelo 
@@ -138,17 +135,17 @@ O aluno deve produzir o desenho simbólico indicando:
 - 01 lâmpada do teto 
 - Eletroduto vindo do QDLF → seguindo ao Box 3   
 
-### Parede Esquerda (Box 3)
+**Parede Esquerda (Box 3)**
 
 - 01 Interruptor intermediário  
 - Eletroduto vindo do  Box 4 e seguindo para Box 2 
 
-### Parede Direita (Box 2)
+**Parede Direita (Box 2)**
 
 - 01 Interruptor intermediário  
 - Eletroduto vindo do Box 3 → seguindo ao Box 1  
 
-### Parede Oposta (Box 1)
+**Parede Oposta (Box 1)**
 
 - 01 Interruptor intermediário  
 - Eletroduto vindo do Box 2 
