@@ -110,7 +110,7 @@ A instalação desta aula utiliza 2 interruptores paralelos e 4 intermediários
 
 ---
 
-##  Desenho Simbólico em Planta Baixa
+##  Diagrama Unifilar - Desenho em Planta Baixa
 
 **Atividade 1 – Planejamento**
 
@@ -128,10 +128,6 @@ O aluno deve produzir o desenho simbólico indicando:
 - Símbolos dos interruptores  
 - Altura padrão (aprox. 1,20 m)  
 - Identificação de cada box
-
----
-
-##  Diagrama Unifilar – Circuito de 5 Pontos
 
 <img src="img/box.jpg" alt="box" width="80%">
 
