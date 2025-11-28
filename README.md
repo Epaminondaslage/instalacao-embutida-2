@@ -133,7 +133,7 @@ O aluno deve produzir o desenho simbólico indicando:
 
 ##  Diagrama Unifilar – Circuito de 5 Pontos
 
-<img src="img/box.jpg" alt="box" width="50%">
+<img src="img/box.jpg" alt="box" width="80%">
 
 **Instalação nas paredes  (QDLF / Box 4)**
 
