@@ -99,6 +99,8 @@ O circuito acima devera acionar acionar uma arandela  com uma lâmpadas de teto 
 
 Cada box possui quatro superfícies principais:
 
+<img src="img/box_geral.jpg" alt="box" width="60%">
+
 - Parede de fundo (com QDLF)  
 - Parede esquerda  
 - Parede direita  
@@ -130,6 +132,8 @@ O aluno deve produzir o desenho simbólico indicando:
 ---
 
 ##  Diagrama Unifilar – Circuito de 5 Pontos
+
+<img src="img/box.jpg" alt="box" width="50%">
 
 **Instalação nas paredes  (QDLF / Box 4)**
 
