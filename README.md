@@ -7,14 +7,14 @@
 ### **Coordenação do Curso de Eletrotécnica**  
 
 ### Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
-### Guia de Aula – Instalação com 2 interruptores paralelos + 3 intermediários no box didático
+### Guia de Aula – Instalação com 2 interruptores paralelos + 4 intermediários no box didático
 
 
 ##  Objetivos da Aula
 
 Ao final desta atividade, o aluno será capaz de:
 
-- Montar um circuito de iluminação com comando em cinco pontos (2 paralelos + 3 intermediários).  
+- Montar um circuito de iluminação com comando em cinco pontos (2 paralelos + 4 intermediários).  
 - Representar graficamente eletrodutos, caixas de passagem e dispositivos em planta baixa.  
 - Elaborar o diagrama unifilar correspondente ao circuito.  
 - Executar e testar a instalação em 4 boxes didáticos interligados, cada um com um interruptor.  
@@ -29,7 +29,7 @@ Esta atividade simula uma instalação real de uma circulação onde a mesma lâ
 ### Interruptor Paralelo
 O interruptor **paralelo** (também chamado de three-way) permite acionar uma lâmpada a partir de **dois pontos diferentes**.
 
-<img src="img/paralelo.jpg" alt="paralelo" width="20%">
+<img src="img/paralelo.jpg" alt="paralelo" width="10%">
 
 **Características:**
 
@@ -49,7 +49,7 @@ O interruptor **paralelo** (também chamado de three-way) permite acionar uma l�
 ### Interruptor Intermediário
 O interruptor **intermediário** (four-way) é usado quando o circuito precisa de **3 ou mais pontos de comando**.
 
-<img src="img/intermediario.jpg" alt="intermediario" width="20%">
+<img src="img/intermediario.jpg" alt="intermediario" width="10%">
 
 **Características:**
 
@@ -82,6 +82,7 @@ O interruptor **intermediário** (four-way) é usado quando o circuito precisa d
 Distribuição entre boxes:
 
 - **Box 1:** Interruptor paralelo (Parede esquerda) - lâmpada 1 teto
+- **Box 1:** Interruptor intermediário (Parede direita) 
 - **Box 2:** Interruptor intermediário (Parede esquerda) - lâmpada 2 teto
 - **Box 3:** Interruptor intermediário (Parede esquerda) - lâmpada 3 teto
 - **Box 4:** Interruptor intermediário (Parede esquerda)  - lâmpada 4 teto  
@@ -89,9 +90,9 @@ Distribuição entre boxes:
 - **Box 4:** Alimentação do circuito 
 
 
-O circuito aciona:
+O circuito acima devera acionar acionar uma arandela  com uma lâmpadas de teto em cada box ( 4 lâmpadas em paralelo). veja o diagrama multifilar.
 
-- 1 arandela  com uma lâmpadas de teto em cada box ( 4 lâmpadas em paralelo)
+
 
 ---
 
@@ -104,7 +105,7 @@ Cada box possui quatro superfícies principais:
 - Parede direita  
 - Teto  
 
-A instalação desta aula utiliza 2 interruptores paralelos e 3 intermediários
+A instalação desta aula utiliza 2 interruptores paralelos e 4 intermediários
 
 ---
 
@@ -151,7 +152,8 @@ O aluno deve produzir o desenho simbólico indicando:
 
 **Parede Oposta (Box 1)**
 
-- 01 Interruptor intermediário  
+- 01 Interruptor intermediário 
+- 01 Interruptor paralelo  
 - Eletroduto vindo do Box 2 
 
 ---
@@ -201,7 +203,7 @@ O aluno deve produzir o desenho simbólico indicando:
 
 - Solicitar inspeção do professor  
 - Energizar o DTMG  
-- Testar os 5 interruptores garantindo funcionamento independente  
+- Testar os 6 interruptores garantindo funcionamento independente  
 
 ---
 
