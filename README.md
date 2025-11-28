@@ -7,7 +7,7 @@
 ### **Coordenação do Curso de Eletrotécnica**  
 
 ### Disciplina: **PLIP - Prática de Laboratório de Instalações Prediais**
-# Guia de Aula – Instalação com 2 Interruptores Paralelos + 3 Intermediários 
+### Guia de Aula – Instalação com 2 interruptores paralelos + 3 intermediários no box didático
 
 
 ##  Objetivos da Aula
@@ -29,6 +29,8 @@ Esta atividade simula uma instalação real de uma circulação onde a mesma lâ
 ### Interruptor Paralelo
 O interruptor **paralelo** (também chamado de three-way) permite acionar uma lâmpada a partir de **dois pontos diferentes**.
 
+<img src="img/paralelo.jpg" alt="paralelo" width="60%">
+
 **Características:**
 
 - Possui **3 bornes**  
@@ -46,6 +48,8 @@ O interruptor **paralelo** (também chamado de three-way) permite acionar uma l�
 
 ### Interruptor Intermediário
 O interruptor **intermediário** (four-way) é usado quando o circuito precisa de **3 ou mais pontos de comando**.
+
+<img src="img/intermediario.jpg" alt="intermediario" width="60%">
 
 **Características:**
 
